@@ -15,3 +15,4 @@ Check out the [Simple-RAG-Chatbot](https://github.com/Faridghr/Simple-RAG-Chatbo
 3. [Building and Evaluating Advanced RAG Applications](https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/)
 
 ## YouTube Link
+You can also watch the video on [YouTube](https://youtu.be/e6QAers00z0).
